@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  start_date: 2013-11-01 16:36:33
+  end_date: 2013-11-01 16:36:33
+  owner: MyString
+  position: MyString
+  name: MyString
+
+two:
+  start_date: 2013-11-01 16:36:33
+  end_date: 2013-11-01 16:36:33
+  owner: MyString
+  position: MyString
+  name: MyString
